@@ -197,12 +197,6 @@ NIM Studio is intended to support:
 * storage review
 * reproducible data-management operations
 
-It does **not** replace scientific quality control, institutional governance, information-security review, or professional judgment.
-
-> [!CAUTION]
-> NIM Studio `0.1.0-beta` is **not intended for clinical diagnosis, treatment decisions, emergency use, or any other purpose requiring a validated or regulated medical device.**
-
----
 
 ## Installation and beta access
 
