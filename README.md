@@ -26,11 +26,6 @@
 
 ---
 
-> [!IMPORTANT]
-> **NIM Studio is currently proprietary closed-source beta software.**
-> This public repository provides documentation, citation metadata, release information, and approved examples only. It does **not** distribute the application source code or grant public access to the executable. Beta use is restricted to authorized participants.
-
----
 
 ## Overview
 
