@@ -1,56 +1,40 @@
-# NIM Studio Public Documentation Rights Notice
+# NIM Studio: Public Repository Rights and Attribution
 
-**Applies to:** NIM Studio public documentation release 0.1.0-beta  
-**Effective date:** 16 June 2026
+**Project:** NIM Studio (Neuro Informatics Management Studio)  
+**Current public release:** v0.1.0-beta documentation  
+**Copyright © 2026 Sara Monteiro**
 
-Copyright © 2026 Sara Monteiro. All rights reserved.
+## 1. Open licence for published materials
 
-## 1. Scope
+Original documentation text, documentation source files, project configuration files, and original research-software materials published in this repository are made available under the [Apache License, Version 2.0](LICENSE), unless an individual file identifies different rights.
 
-This notice applies to the original public materials distributed in the NIM Studio documentation repository and associated Zenodo documentation record, including the README, user documentation, written tutorials, original diagrams, screenshots, release notes, and visual assets, unless a file expressly states different terms.
+The licence permits use, copying, modification, and redistribution of covered material, subject to its terms, including preservation of applicable notices. Public documentation contributors are welcome; see [CONTRIBUTING.md](CONTRIBUTING.md).
 
-This notice does not license the NIM Studio application, source code, executable packages, internal architecture, proprietary implementation, private documentation, or other non-public materials.
+## 2. Application source-code roadmap
 
-Machine-readable bibliographic metadata made available through Zenodo or another repository may additionally be governed by that repository's terms.
+NIM Studio is an **open-source research-software project in development**. Publication of the application source code is planned for **January 2027**, with Apache License 2.0 as the proposed software licence, subject to final testing and confirmation of release rights.
 
-## 2. Permitted use
+The application source code is **not yet included** in this documentation repository. Publishing documentation now does not grant rights to unpublished source code or other non-public materials.
 
-You may:
+## 3. Pre-release evaluation executables
 
-- View and download the public documentation for personal evaluation and reference.
-- Link to the public repository or version-specific Zenodo record.
-- Cite NIM Studio and quote limited portions of the documentation where permitted by applicable law, with appropriate attribution.
-- Use the documentation as needed to operate a lawfully obtained NIM Studio beta package, subject to the applicable beta licence.
+Prebuilt NIM Studio 0.1.0-beta packages distributed privately to approved testers are subject to the separate [Beta Executable Licence](BETA_EXECUTABLE_LICENSE.md) and [Beta Evaluation Policy](BETA_POLICY.md).
 
-## 3. Uses not granted
+Those terms govern the current non-public evaluation packages and credentials. They do not restrict the Apache-licensed public repository materials.
 
-Except where permitted by applicable law or prior written authorization, you may not:
+## 4. Logos, names, and third-party materials
 
-- Reproduce or redistribute substantial portions of the documentation.
-- Publish modified versions or translations of the documentation.
-- Use the documentation or visual assets in a competing product or commercial service.
-- Remove ownership, authorship, IP, copyright, attribution, rights, or provenance notices.
-- Use NIM Studio names, logos, screenshots, or visual identity in a way that suggests endorsement, affiliation, or authorization.
-- Use these materials to claim access to, ownership of, or a licence for the NIM Studio application or source code.
+Apache License 2.0 does not grant trademark rights. The NIM Studio name, product identity, and project marks may be used for accurate attribution and identification, but may not imply endorsement or an official relationship without authorization.
 
-## 4. Third-party material
+Third-party logos, trademarks, datasets, and materials retain their respective rights. In particular, publication of an institutional logo does not grant a general licence to use that logo.
 
-Third-party names, standards, software, documentation, and other materials remain subject to their respective rights. This notice grants no rights in third-party material and no rights in the BIDS name, specification, or associated assets.
+Original diagrams and screenshots are reusable only to the extent covered by the repository licence or a file-specific notice. Preserve attribution and do not imply institutional validation or endorsement.
 
-## 5. No software licence or transfer of ownership
+## 5. Attribution and disclaimer
 
-Publication of these materials does not make NIM Studio open source, transfer ownership, grant access to the application, or create a patent, trademark, commercial, partnership, employment, or agency relationship.
+Please cite the project and exact software version when it contributes to a research output; see [CITATION.cff](CITATION.cff).
 
-Reproduction is not permitted without formal approval. 
+The published materials are provided “AS IS,” without warranty, to the extent permitted by applicable law. NIM Studio remains research software and does not replace scientific validation, institutional governance, or legal compliance requirements.
 
-All rights not expressly granted are reserved.
+For collaboration or clarification of rights, follow [CONTRIBUTING.md](CONTRIBUTING.md) or the official project contact channel.
 
-## 6. Disclaimer
-
-The public documentation describes beta software under active development and is provided for informational purposes on an “as is” and “as available” basis. To the maximum extent permitted by applicable law, no warranty is given that the documentation is complete, error-free, current, or suitable for a particular purpose.
-
-## 7. Requests
-
-Requests to reproduce, translate, teach from, publish, or otherwise reuse substantial portions of the documentation should be directed to the official NIM Studio contact channel.
-
-> This notice is a project rights statement and is not a substitute for advice from a qualified intellectual-property lawyer.

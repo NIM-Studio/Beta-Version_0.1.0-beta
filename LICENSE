@@ -1,108 +1,202 @@
-NIM Studio Proprietary Beta Software Licence v1.0
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
 
-Applies to NIM Studio 0.1.0-beta
-Effective date: 10 July 2026
-Copyright © 2026 Sara Monteiro. All rights reserved.
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
-IMPORTANT: THIS LICENCE GOVERNS THE EXECUTABLE NIM STUDIO BETA SOFTWARE AND NON-PUBLIC MATERIALS SUPPLIED WITH IT. IT DOES NOT APPLY TO THIRD-PARTY COMPONENTS, WHICH REMAIN SUBJECT TO THEIR OWN LICENCES. IF YOU HAVE A SEPARATELY SIGNED AGREEMENT FOR THE BETA, THAT AGREEMENT PREVAILS TO THE EXTENT OF A CONFLICT.
+   1. Definitions.
 
-1. DEFINITIONS
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
 
-“Software” means the NIM Studio 0.1.0-beta executable package, accompanying non-public documentation, updates expressly supplied under this Licence, and original NIM Studio materials included with them, excluding Third-Party Components.
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner that is granting the License.
 
-“Licensor” means Sara Monteiro or a subsequently identified entity that validly owns or controls the relevant rights and distributes the Software.
+      "Legal Entity" shall mean the union of the acting entity and all
+      other entities that control, are controlled by, or are under common
+      control with that entity. For the purposes of this definition,
+      "control" means (i) the power, direct or indirect, to cause the
+      direction or management of such entity, whether by contract or
+      otherwise, or (ii) ownership of fifty percent (50%) or more of the
+      outstanding shares, or (iii) beneficial ownership of such entity.
 
-“Authorized User” means a named individual, or an individual within an expressly approved institutional evaluation group, who has received permission to access the Software.
+      "You" (or "Your") shall mean an individual or Legal Entity
+      exercising permissions granted by this License.
 
-“Third-Party Components” means software, libraries, standards, documentation, data, or other materials owned or licensed by third parties and included in, called by, or referenced from the Software.
+      "Source" form shall mean the preferred form for making modifications,
+      including but not limited to software source code, documentation
+      source, and configuration files.
 
-2. LIMITED BETA LICENCE
+      "Object" form shall mean any form resulting from mechanical
+      transformation or translation of a Source form, including but
+      not limited to compiled object code, generated documentation,
+      and conversions to other media types.
 
-Subject to compliance with this Licence, the Licensor grants each Authorized User a limited, personal, non-exclusive, non-transferable, non-sublicensable, revocable licence during the beta period to install and execute the supplied Software solely for internal evaluation, research, educational, and research data-management activities.
+      "Work" shall mean the work of authorship, whether in Source or
+      Object form, made available under the License, as indicated by a
+      copyright notice that is included in or attached to the work
+      (an example is provided in the Appendix below).
 
-No ownership is transferred. No right is granted to the source code, internal architecture, proprietary implementation, brand assets, or any future version or service.
+      "Derivative Works" shall mean any work, whether in Source or Object
+      form, that is based on (or derived from) the Work and for which the
+      editorial revisions, annotations, elaborations, or other modifications
+      represent, as a whole, an original work of authorship. For the purposes
+      of this License, Derivative Works shall not include works that remain
+      separable from, or merely link (or bind by name) to the interfaces of,
+      the Work and Derivative Works thereof.
 
-3. RESTRICTIONS
+      "Contribution" shall mean any work of authorship, including
+      the original version of the Work and any modifications or additions
+      to that Work or Derivative Works thereof, that is intentionally
+      submitted to Licensor for inclusion in the Work by the copyright owner
+      or by an individual or Legal Entity authorized to submit on behalf of
+      the copyright owner. For the purposes of this definition, "submitted"
+      means any form of electronic, verbal, or written communication sent
+      to the Licensor or its representatives, including but not limited to
+      communication on electronic mailing lists, source code control systems,
+      and issue tracking systems that are managed by, or on behalf of, the
+      Licensor for the purpose of discussing and improving the Work, but
+      excluding communication that is conspicuously marked or otherwise
+      designated in writing by the copyright owner as "Not a Contribution."
 
-Except with prior written authorization or to the extent a restriction is prohibited by mandatory applicable law, an Authorized User must not:
+      "Contributor" shall mean Licensor and any individual or Legal Entity
+      on behalf of whom a Contribution has been received by Licensor and
+      subsequently incorporated within the Work.
 
-a. copy the Software except for installation and a backup copy reasonably necessary for authorized use;
-b. provide, disclose, publish, distribute, transfer, rent, lease, lend, sell, sublicense, host, or make the Software available to another person;
-c. modify, adapt, translate, create derivative versions of, repackage, or remove technical protections from the Software;
-d. reverse engineer, decompile, disassemble, or otherwise attempt to derive source code, non-public algorithms, or internal structure from the Software;
-e. provide the Software or its functionality as a hosted, bureau, consultancy, commercial, or managed service;
-f. remove or alter copyright, attribution, provenance, rights, security, or technical notices;
-g. bypass access controls, build expiry, usage limits, or other beta-management mechanisms;
-h. use the Software to develop, train, validate, or materially improve a competing product using non-public NIM Studio materials;
-i. publish non-public technical details, credentials, private endpoints, or confidential beta materials; or
-j. represent the Software as clinically validated, regulator-approved, endorsed by an institution, or suitable for a purpose for which it has not been validated.
+   2. Grant of Copyright License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      copyright license to reproduce, prepare Derivative Works of,
+      publicly display, publicly perform, sublicense, and distribute the
+      Work and such Derivative Works in Source or Object form.
 
-Nothing in this Licence limits rights that cannot lawfully be excluded, including qualifying acts necessary for interoperability, lawful observation or testing, backup, or error correction where and to the extent provided by applicable law. Information obtained through a mandatory exception may be used only within the limits established by that law.
+   3. Grant of Patent License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      (except as stated in this section) patent license to make, have made,
+      use, offer to sell, sell, import, and otherwise transfer the Work,
+      where such license applies only to those patent claims licensable
+      by such Contributor that are necessarily infringed by their
+      Contribution(s) alone or by combination of their Contribution(s)
+      with the Work to which such Contribution(s) was submitted. If You
+      institute patent litigation against any entity (including a
+      cross-claim or counterclaim in a lawsuit) alleging that the Work
+      or a Contribution incorporated within the Work constitutes direct
+      or contributory patent infringement, then any patent licenses
+      granted to You under this License for that Work shall terminate
+      as of the date such litigation is filed.
 
-4. BETA LIMITATIONS AND PROHIBITED RELIANCE
+   4. Redistribution. You may reproduce and distribute copies of the
+      Work or Derivative Works thereof in any medium, with or without
+      modifications, and in Source or Object form, provided that You
+      meet the following conditions:
 
-The Software is pre-release research software. It may contain errors, incomplete features, compatibility problems, or behavior that changes without notice.
+      (a) You must give any other recipients of the Work or
+          Derivative Works a copy of this License; and
 
-The Software is not intended for clinical diagnosis, treatment decisions, emergency use, or another regulated medical purpose. It must not be used as the sole basis for scientific, clinical, legal, compliance, security, or operational decisions. Authorized Users are responsible for validating inputs, proposed operations, outputs, backups, and recovery procedures.
+      (b) You must cause any modified files to carry prominent notices
+          stating that You changed the files; and
 
-5. DATA AND USER RESPONSIBILITIES
+      (c) You must retain, in the Source form of any Derivative Works
+          that You distribute, all copyright, patent, trademark, and
+          attribution notices from the Source form of the Work,
+          excluding those notices that do not pertain to any part of
+          the Derivative Works; and
 
-The Licensor does not acquire ownership of data processed by an Authorized User merely because the Software is used. The Authorized User is responsible for obtaining all necessary permissions and for complying with data-protection law, ethics approvals, data-use agreements, institutional policies, access controls, retention obligations, and security requirements.
+      (d) If the Work includes a "NOTICE" text file as part of its
+          distribution, then any Derivative Works that You distribute must
+          include a readable copy of the attribution notices contained
+          within such NOTICE file, excluding those notices that do not
+          pertain to any part of the Derivative Works, in at least one
+          of the following places: within a NOTICE text file distributed
+          as part of the Derivative Works; within the Source form or
+          documentation, if provided along with the Derivative Works; or,
+          within a display generated by the Derivative Works, if and
+          wherever such third-party notices normally appear. The contents
+          of the NOTICE file are for informational purposes only and
+          do not modify the License. You may add Your own attribution
+          notices within Derivative Works that You distribute, alongside
+          or as an addendum to the NOTICE text from the Work, provided
+          that such additional attribution notices cannot be construed
+          as modifying the License.
 
-The Authorized User must use reasonable safeguards, maintain appropriate backups, and avoid submitting personal data, credentials, or confidential information through public issue trackers or unapproved support channels.
+      You may add Your own copyright statement to Your modifications and
+      may provide additional or different license terms and conditions
+      for use, reproduction, or distribution of Your modifications, or
+      for any such Derivative Works as a whole, provided Your use,
+      reproduction, and distribution of the Work otherwise complies with
+      the conditions stated in this License.
 
-6. FEEDBACK
+   5. Submission of Contributions. Unless You explicitly state otherwise,
+      any Contribution intentionally submitted for inclusion in the Work
+      by You to the Licensor shall be under the terms and conditions of
+      this License, without any additional terms or conditions.
+      Notwithstanding the above, nothing herein shall supersede or modify
+      the terms of any separate license agreement you may have executed
+      with Licensor regarding such Contributions.
 
-An Authorized User may voluntarily provide feedback that does not contain third-party confidential information or personal data. The Authorized User grants the Licensor a non-exclusive, worldwide, perpetual, irrevocable, royalty-free right to use, reproduce, adapt, and incorporate that feedback for developing, documenting, supporting, and commercializing NIM Studio, without an obligation to identify or compensate the provider.
+   6. Trademarks. This License does not grant permission to use the trade
+      names, trademarks, service marks, or product names of the Licensor,
+      except as required for reasonable and customary use in describing the
+      origin of the Work and reproducing the content of the NOTICE file.
 
-This clause does not transfer ownership of the Authorized User's pre-existing software, research data, unpublished results, or separately identified confidential material.
+   7. Disclaimer of Warranty. Unless required by applicable law or
+      agreed to in writing, Licensor provides the Work (and each
+      Contributor provides its Contributions) on an "AS IS" BASIS,
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+      implied, including, without limitation, any warranties or conditions
+      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+      PARTICULAR PURPOSE. You are solely responsible for determining the
+      appropriateness of using or redistributing the Work and assume any
+      risks associated with Your exercise of permissions under this License.
 
-7. CONFIDENTIAL BETA MATERIALS
+   8. Limitation of Liability. In no event and under no legal theory,
+      whether in tort (including negligence), contract, or otherwise,
+      unless required by applicable law (such as deliberate and grossly
+      negligent acts) or agreed to in writing, shall any Contributor be
+      liable to You for damages, including any direct, indirect, special,
+      incidental, or consequential damages of any character arising as a
+      result of this License or out of the use or inability to use the
+      Work (including but not limited to damages for loss of goodwill,
+      work stoppage, computer failure or malfunction, or any and all
+      other commercial damages or losses), even if such Contributor
+      has been advised of the possibility of such damages.
 
-Non-public packages, credentials, private download links, internal technical information, and materials marked confidential—or that a reasonable beta participant would understand to be non-public—must be protected using reasonable care and disclosed only to Authorized Users who are bound by equivalent obligations.
+   9. Accepting Warranty or Additional Liability. While redistributing
+      the Work or Derivative Works thereof, You may choose to offer,
+      and charge a fee for, acceptance of support, warranty, indemnity,
+      or other liability obligations and/or rights consistent with this
+      License. However, in accepting such obligations, You may act only
+      on Your own behalf and on Your sole responsibility, not on behalf
+      of any other Contributor, and only if You agree to indemnify,
+      defend, and hold each Contributor harmless for any liability
+      incurred by, or claims asserted against, such Contributor by reason
+      of your accepting any such warranty or additional liability.
 
-This obligation does not apply to information the recipient can demonstrate was lawfully public without breach, lawfully known without confidentiality restrictions, independently developed without use of the confidential material, or lawfully received from a third party without a duty of confidentiality. Legally compelled disclosure is permitted where the recipient provides notice when legally allowed and discloses only what is required.
+   END OF TERMS AND CONDITIONS
 
-8. THIRD-PARTY COMPONENTS
+   APPENDIX: How to apply the Apache License to your work.
 
-Third-Party Components are governed by their respective licences and notices. This Licence does not reduce rights granted under a third-party licence or grant rights the Licensor does not possess. Applicable notices should be provided in `THIRD_PARTY_LICENSES.md` or an equivalent file supplied with the Software.
+      To apply the Apache License to your work, attach the following
+      boilerplate notice, with the fields enclosed by brackets "{}"
+      replaced with your own identifying information. (Don't include
+      the brackets!)  The text should be enclosed in the appropriate
+      comment syntax for the file format. We also recommend that a
+      file or class name and description of purpose be included on the
+      same "printed page" as the copyright notice for easier
+      identification within third-party archives.
 
-The Authorized User is responsible for complying with third-party terms applicable to components, services, datasets, standards, or tools they independently connect to NIM Studio.
+   Copyright {yyyy} {name of copyright owner}
 
-This restriction does not prohibit acts expressly permitted under an applicable Third-Party Component licence, including acts necessary to modify, debug, replace, or relink an LGPL-covered component.
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
 
-9. OWNERSHIP AND RESERVED RIGHTS
+       http://www.apache.org/licenses/LICENSE-2.0
 
-Subject to third-party rights, the Licensor retains all rights in the original NIM Studio source code, executable code, documentation, user-interface assets, branding, and other original materials. All rights not expressly granted are reserved.
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
 
-This Licence grants no trademark right and no patent licence except to the limited extent necessarily implied by the authorized execution of the supplied Software and required by applicable law.
-
-10. UPDATES AND ACCESS MANAGEMENT
-
-The Licensor may issue, replace, suspend, or withdraw beta builds and may require an Authorized User to stop using an obsolete or insecure build. A build may include a version identifier, checksum, expiry date, or access-control mechanism. The Licensor is not obligated to provide maintenance, support, updates, compatibility, or a stable release.
-
-11. TERM AND TERMINATION
-
-This Licence begins when the Authorized User lawfully receives and uses the Software and continues until the earliest of: the stated beta expiry; withdrawal of the Authorized User's beta access; replacement by a new applicable licence; or termination for material breach.
-
-Upon termination, the Authorized User must stop using the Software and delete supplied packages and non-public materials under their control, except for a copy that applicable law or a binding institutional record-retention obligation requires them to preserve. Sections concerning restrictions, feedback, confidentiality, ownership, disclaimers, liability, and general interpretation survive to the extent necessary to give them effect.
-
-12. DISCLAIMER OF WARRANTY
-
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE,” WITHOUT EXPRESS OR IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, NON-INFRINGEMENT, SECURITY, AVAILABILITY, OR ABSENCE OF DEFECTS.
-
-NO STATEMENT IN THE DOCUMENTATION OR BETA COMMUNICATIONS CREATES A WARRANTY UNLESS EXPRESSLY AGREED IN WRITING BY THE LICENSOR.
-
-13. LIMITATION OF LIABILITY
-
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR WILL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE, OR CONSEQUENTIAL LOSS; LOSS OF DATA, RESEARCH TIME, REVENUE, PROFITS, GOODWILL, OR OPPORTUNITY; OR INTERRUPTION OF RESEARCH OR OPERATIONS ARISING FROM THE SOFTWARE OR BETA PROGRAMME.
-
-NOTHING IN THIS LICENCE EXCLUDES OR LIMITS LIABILITY THAT CANNOT LAWFULLY BE EXCLUDED OR LIMITED. ANY FURTHER LIABILITY LIMIT OR CAP SHOULD BE SET OUT IN A SEPARATELY REVIEWED AGREEMENT APPROPRIATE TO THE USER, JURISDICTION, AND DISTRIBUTION MODEL.
-
-14. GENERAL
-
-An Authorized User may not assign or transfer this Licence without prior written authorization. Failure to enforce a provision is not a waiver. If a provision is invalid or unenforceable, it will be limited or removed only to the minimum extent necessary, and the remaining provisions will continue in effect.
-
-This Licence and any separately signed agreement constitute the applicable terms for the supplied beta package. Headings are for convenience only. Questions about permissions, institutional deployment, or commercial evaluation must be directed to the official NIM Studio licensing contact.
-
-NOTICE: THIS TEMPLATE SHOULD BE REVIEWED BY A QUALIFIED LAWYER BEFORE EXECUTABLE BETA PACKAGES ARE DISTRIBUTED, PARTICULARLY TO CONFIRM OWNERSHIP, THE LICENSOR IDENTITY, GOVERNING LAW, JURISDICTION, CONSUMER-LAW EXPOSURE, LIABILITY LIMITS, DATA-PROTECTION ROLES, AND ACCEPTANCE MECHANISM.

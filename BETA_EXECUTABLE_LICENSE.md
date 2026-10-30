@@ -1,0 +1,109 @@
+NIM Studio Proprietary Beta Software Licence v1.0
+
+Applies to NIM Studio 0.1.0-beta
+Effective date: 10 July 2026
+Copyright © 2026 Sara Monteiro. All rights reserved.
+
+IMPORTANT: THIS LICENCE GOVERNS THE EXECUTABLE NIM STUDIO BETA SOFTWARE AND NON-PUBLIC MATERIALS SUPPLIED WITH IT. IT DOES NOT APPLY TO THIRD-PARTY COMPONENTS, WHICH REMAIN SUBJECT TO THEIR OWN LICENCES. IF YOU HAVE A SEPARATELY SIGNED AGREEMENT FOR THE BETA, THAT AGREEMENT PREVAILS TO THE EXTENT OF A CONFLICT.
+
+1. DEFINITIONS
+
+“Software” means the NIM Studio 0.1.0-beta executable package, accompanying non-public documentation, updates expressly supplied under this Licence, and original NIM Studio materials included with them, excluding Third-Party Components.
+
+“Licensor” means Sara Monteiro or a subsequently identified entity that validly owns or controls the relevant rights and distributes the Software.
+
+“Authorized User” means a named individual, or an individual within an expressly approved institutional evaluation group, who has received permission to access the Software.
+
+“Third-Party Components” means software, libraries, standards, documentation, data, or other materials owned or licensed by third parties and included in, called by, or referenced from the Software.
+
+2. LIMITED BETA LICENCE
+
+Subject to compliance with this Licence, the Licensor grants each Authorized User a limited, personal, non-exclusive, non-transferable, non-sublicensable, revocable licence during the beta period to install and execute the supplied Software solely for internal evaluation, research, educational, and research data-management activities.
+
+No ownership is transferred. No right is granted to the source code, internal architecture, proprietary implementation, brand assets, or any future version or service.
+
+3. RESTRICTIONS
+
+Except with prior written authorization or to the extent a restriction is prohibited by mandatory applicable law, an Authorized User must not:
+
+a. copy the Software except for installation and a backup copy reasonably necessary for authorized use;
+b. provide, disclose, publish, distribute, transfer, rent, lease, lend, sell, sublicense, host, or make the Software available to another person;
+c. modify, adapt, translate, create derivative versions of, repackage, or remove technical protections from the Software;
+d. reverse engineer, decompile, disassemble, or otherwise attempt to derive source code, non-public algorithms, or internal structure from the Software;
+e. provide the Software or its functionality as a hosted, bureau, consultancy, commercial, or managed service;
+f. remove or alter copyright, attribution, provenance, rights, security, or technical notices;
+g. bypass access controls, build expiry, usage limits, or other beta-management mechanisms;
+h. use the Software to develop, train, validate, or materially improve a competing product using non-public NIM Studio materials;
+i. publish non-public technical details, credentials, private endpoints, or confidential beta materials; or
+j. represent the Software as clinically validated, regulator-approved, endorsed by an institution, or suitable for a purpose for which it has not been validated.
+
+Nothing in this Licence limits rights that cannot lawfully be excluded, including qualifying acts necessary for interoperability, lawful observation or testing, backup, or error correction where and to the extent provided by applicable law. Information obtained through a mandatory exception may be used only within the limits established by that law.
+
+4. BETA LIMITATIONS AND PROHIBITED RELIANCE
+
+The Software is pre-release research software. It may contain errors, incomplete features, compatibility problems, or behavior that changes without notice.
+
+The Software is not intended for clinical diagnosis, treatment decisions, emergency use, or another regulated medical purpose. It must not be used as the sole basis for scientific, clinical, legal, compliance, security, or operational decisions. Authorized Users are responsible for validating inputs, proposed operations, outputs, backups, and recovery procedures.
+
+5. DATA AND USER RESPONSIBILITIES
+
+The Licensor does not acquire ownership of data processed by an Authorized User merely because the Software is used. The Authorized User is responsible for obtaining all necessary permissions and for complying with data-protection law, ethics approvals, data-use agreements, institutional policies, access controls, retention obligations, and security requirements.
+
+The Authorized User must use reasonable safeguards, maintain appropriate backups, and avoid submitting personal data, credentials, or confidential information through public issue trackers or unapproved support channels.
+
+6. FEEDBACK
+
+An Authorized User may voluntarily provide feedback that does not contain third-party confidential information or personal data. The Authorized User grants the Licensor a non-exclusive, worldwide, perpetual, irrevocable, royalty-free right to use, reproduce, adapt, and incorporate that feedback for developing, documenting, supporting, and commercializing NIM Studio, without an obligation to identify or compensate the provider.
+
+This clause does not transfer ownership of the Authorized User's pre-existing software, research data, unpublished results, or separately identified confidential material.
+
+7. CONFIDENTIAL BETA MATERIALS
+
+Non-public packages, credentials, private download links, internal technical information, and materials marked confidential—or that a reasonable beta participant would understand to be non-public—must be protected using reasonable care and disclosed only to Authorized Users who are bound by equivalent obligations.
+
+This obligation does not apply to information the recipient can demonstrate was lawfully public without breach, lawfully known without confidentiality restrictions, independently developed without use of the confidential material, or lawfully received from a third party without a duty of confidentiality. Legally compelled disclosure is permitted where the recipient provides notice when legally allowed and discloses only what is required.
+
+8. THIRD-PARTY COMPONENTS
+
+Third-Party Components are governed by their respective licences and notices. This Licence does not reduce rights granted under a third-party licence or grant rights the Licensor does not possess. Applicable notices should be provided in `THIRD_PARTY_LICENSES.md` or an equivalent file supplied with the Software.
+
+The Authorized User is responsible for complying with third-party terms applicable to components, services, datasets, standards, or tools they independently connect to NIM Studio.
+
+This restriction does not prohibit acts expressly permitted under an applicable Third-Party Component licence, including acts necessary to modify, debug, replace, or relink an LGPL-covered component.
+
+9. OWNERSHIP AND RESERVED RIGHTS
+
+Subject to third-party rights, the Licensor retains all rights in the original NIM Studio source code, executable code, documentation, user-interface assets, branding, and other original materials. All rights not expressly granted are reserved.
+
+This Licence grants no trademark right and no patent licence except to the limited extent necessarily implied by the authorized execution of the supplied Software and required by applicable law.
+
+10. UPDATES AND ACCESS MANAGEMENT
+
+The Licensor may issue, replace, suspend, or withdraw beta builds and may require an Authorized User to stop using an obsolete or insecure build. A build may include a version identifier, checksum, expiry date, or access-control mechanism. The Licensor is not obligated to provide maintenance, support, updates, compatibility, or a stable release.
+
+11. TERM AND TERMINATION
+
+This Licence begins when the Authorized User lawfully receives and uses the Software and continues until the earliest of: the stated beta expiry; withdrawal of the Authorized User's beta access; replacement by a new applicable licence; or termination for material breach.
+
+Upon termination, the Authorized User must stop using the Software and delete supplied packages and non-public materials under their control, except for a copy that applicable law or a binding institutional record-retention obligation requires them to preserve. Sections concerning restrictions, feedback, confidentiality, ownership, disclaimers, liability, and general interpretation survive to the extent necessary to give them effect.
+
+12. DISCLAIMER OF WARRANTY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE,” WITHOUT EXPRESS OR IMPLIED WARRANTIES, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, NON-INFRINGEMENT, SECURITY, AVAILABILITY, OR ABSENCE OF DEFECTS.
+
+NO STATEMENT IN THE DOCUMENTATION OR BETA COMMUNICATIONS CREATES A WARRANTY UNLESS EXPRESSLY AGREED IN WRITING BY THE LICENSOR.
+
+13. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR WILL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, PUNITIVE, OR CONSEQUENTIAL LOSS; LOSS OF DATA, RESEARCH TIME, REVENUE, PROFITS, GOODWILL, OR OPPORTUNITY; OR INTERRUPTION OF RESEARCH OR OPERATIONS ARISING FROM THE SOFTWARE OR BETA PROGRAMME.
+
+NOTHING IN THIS LICENCE EXCLUDES OR LIMITS LIABILITY THAT CANNOT LAWFULLY BE EXCLUDED OR LIMITED. ANY FURTHER LIABILITY LIMIT OR CAP SHOULD BE SET OUT IN A SEPARATELY REVIEWED AGREEMENT APPROPRIATE TO THE USER, JURISDICTION, AND DISTRIBUTION MODEL.
+
+14. GENERAL
+
+An Authorized User may not assign or transfer this Licence without prior written authorization. Failure to enforce a provision is not a waiver. If a provision is invalid or unenforceable, it will be limited or removed only to the minimum extent necessary, and the remaining provisions will continue in effect.
+
+This Licence and any separately signed agreement constitute the applicable terms for the supplied beta package. Headings are for convenience only. Questions about permissions, institutional deployment, or commercial evaluation must be directed to the official NIM Studio licensing contact.
+
+NOTICE: THIS TEMPLATE SHOULD BE REVIEWED BY A QUALIFIED LAWYER BEFORE EXECUTABLE BETA PACKAGES ARE DISTRIBUTED, PARTICULARLY TO CONFIRM OWNERSHIP, THE LICENSOR IDENTITY, GOVERNING LAW, JURISDICTION, CONSUMER-LAW EXPOSURE, LIABILITY LIMITS, DATA-PROTECTION ROLES, AND ACCEPTANCE MECHANISM.
+

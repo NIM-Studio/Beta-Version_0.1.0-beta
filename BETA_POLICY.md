@@ -1,4 +1,4 @@
-# NIM Studio Beta Release Policy
+# NIM Studio Beta Evaluation Policy
 
 **Software version:** 0.1.0-beta  
 **Policy version:** 1.0  
@@ -7,7 +7,7 @@
 
 ## 1. Purpose
 
-This policy explains how the NIM Studio controlled beta programme operates. It is a public summary and does not replace the NIM Studio Proprietary Beta Software Licence or any separately signed beta-testing agreement. If documents conflict, the signed agreement and applicable licence take precedence.
+This policy describes controlled evaluation of non-public, prebuilt NIM Studio v0.1.0-beta application packages. It is a public summary and does not replace the separate [Beta Executable Licence](BETA_EXECUTABLE_LICENSE.md) or any signed beta-testing agreement. It does not restrict the rights granted to public repository materials under [Apache License 2.0](LICENSE). If documents conflict, the signed agreement and applicable executable licence take precedence for that beta package.
 
 ## 2. Beta status
 
@@ -21,7 +21,7 @@ Executable beta packages are supplied only to approved participants through a co
 
 Participants must not share packages, credentials, activation information, private download links, or non-public documentation with unapproved persons. NIM Studio may use build identifiers, checksums, expiry dates, or access controls to manage beta distribution and investigate unauthorized redistribution.
 
-The public GitHub repository and Zenodo record contain documentation and citation material only. Their public availability does not grant access to, or a licence for, the application.
+The public GitHub repository provides documentation and other materials under Apache License 2.0. The application source code is planned for public open-source release in January 2027 and is not included in this beta documentation repository. Until then, non-public evaluation executables remain subject to their separate beta terms.
 
 ## 4. Permitted evaluation
 
@@ -36,9 +36,9 @@ The beta must not be used for:
 - Clinical diagnosis, treatment decisions, emergency use, or another regulated medical purpose.
 - Unlawful surveillance, unauthorized access, or processing data without an appropriate legal and institutional basis.
 - Production-critical workflows without independent validation, backups, and an approved recovery plan.
-- Redistribution, sublicensing, resale, public hosting, or provision as a service without prior written authorization.
+- Unauthorized redistribution, sublicensing, resale, public hosting, or service provision involving non-public prebuilt beta packages or confidential evaluation materials. These limitations do not restrict Apache-licensed repository materials.
 
-Detailed restrictions are contained in the beta licence.
+Detailed conditions for non-public evaluation packages are contained in the [Beta Executable Licence](BETA_EXECUTABLE_LICENSE.md).
 
 ## 6. Data protection and security
 
@@ -68,10 +68,11 @@ Access may be suspended or withdrawn in accordance with the beta licence or appl
 
 ## 10. Future releases
 
-Future versions may use different functionality, distribution channels, access models, or licensing terms. No commitment is made to release source code, provide open access, maintain a particular feature, or grant beta participants access to future versions.
+NIM Studio is being developed toward a public open-source application source-code release planned for **January 2027**, with **Apache License 2.0** as the proposed software licence. The planned date remains subject to testing, packaging, and confirmation of release rights. Publication of the application source code has not yet occurred. This beta policy will be reviewed when that release takes place; it does not promise ongoing support or access to every future build.
 
 ## 11. Contact
 
 The official beta-support, security-reporting, and licensing contacts will be provided during onboarding and added to the public documentation once confirmed.
 
 > This policy is an operational summary and is not a substitute for a reviewed beta-testing agreement or legal advice.
+

@@ -7,6 +7,7 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/BETA-v0.1.0-7A2CFF?style=flat-square" />
+<img src="https://img.shields.io/badge/OPEN--SOURCE-RELEASE%20PLANNED%20JAN%202027-1594C6?style=flat-square" />
 <img src="https://img.shields.io/badge/LOCAL--FIRST-DATA%20STAYS%20LOCAL-5A3BFF?style=flat-square" />
 <img src="https://img.shields.io/badge/BIDS-ALIGNED-356CFF?style=flat-square" />
 <img src="https://img.shields.io/badge/FAIR-ORIENTED-158FE8?style=flat-square" />
@@ -29,7 +30,7 @@
 
 ## Overview
 
-**NIM Studio — Neuro Informatics Management Studio** is a local-first desktop application for neuroinformatics and research data management.
+**NIM Studio — Neuro Informatics Management Studio** is a local-first desktop application for neuroinformatics and research data management, developed as an open-source research-software project. Its first public application source-code release is planned for January 2027.
 
 It provides an integrated environment for:
 
@@ -53,7 +54,19 @@ Version `0.1.0-beta` is under active development. Features, interfaces, workflow
 
 The beta may contain incomplete functionality or defects. Users must review proposed operations and validate outputs before incorporating them into research or operational workflows.
 
-Access to the executable application is limited to approved beta participants and is governed by the accompanying beta terms. Public availability of this repository or its documentation does not grant access to, or a licence for, the application.
+The documentation and other original materials published in this repository are available under the [Apache License 2.0](./LICENSE), subject to the scope explained in [RIGHTS.md](./RIGHTS.md). The application source code is not yet public; its first open-source release is planned for **January 2027**. Prebuilt evaluation packages remain available to approved beta testers under separate [beta executable terms](./BETA_EXECUTABLE_LICENSE.md).
+
+---
+
+## Open-source roadmap
+
+<p align="center">
+  <img src="./assets/NIM_OpenSource_Roadmap.svg"
+       alt="NIM Studio roadmap: April–July 2026 beta foundation, September 2026–January 2027 internal evaluation, and a planned January 2027 open-source application source release"
+       width="100%" />
+</p>
+
+Internal evaluation continues through **January 2027**, alongside release preparation. The January 2027 source-code release is a **separate planned milestone**, subject to final testing and release-rights review. For ways to contribute now or propose scientific collaborations, see [Contributing & Collaboration](./CONTRIBUTING.md).
 
 ---
 
@@ -200,15 +213,15 @@ NIM Studio is intended to support:
 
 ## Installation and beta access
 
-The public GitHub repository and Zenodo documentation record do **not** provide the application source code or executable.
+This repository currently publishes open-licensed documentation and project resources. The NIM Studio application source code is scheduled for public release in **January 2027** and is not part of the current documentation repository.
 
-Approved beta participants receive a platform-appropriate application package and installation instructions through a controlled distribution channel.
+Until then, approved beta participants receive prebuilt evaluation packages and installation instructions through a controlled distribution channel under the separate [beta executable licence](./BETA_EXECUTABLE_LICENSE.md).
 
 Depending on the beta build, distribution may include:
 
 `WINDOWS` · `macOS` · `LINUX` · `LINUX / HPC`
 
-Beta packages must not be redistributed.
+The current non-public evaluation packages must not be redistributed under their separate beta terms. The repository licence permits reuse of the open materials it covers.
 
 Where checksums are supplied, verify both the application version and checksum before installation.
 
@@ -241,7 +254,7 @@ A persistent archival version is available through Zenodo:
 
 **DOI:** [`10.5281/zenodo.21296291`](https://doi.org/10.5281/zenodo.21296291)
 
-Public documentation describes the approved product surface. Internal architecture, proprietary implementation details, credentials, private endpoints, and confidential research material are intentionally excluded.
+Public documentation describes the current beta workflows. Application source code is planned for release in January 2027; credentials, private endpoints, and confidential research materials remain excluded.
 
 ---
 
@@ -283,7 +296,7 @@ If NIM Studio contributes to research or a scientific output, cite the **exact v
 
 ### Software
 
-> Monteiro, S. (2026). *NIM Studio: Neuro Informatics Management Studio* (Version 0.1.0-beta) [Computer software]. Closed-source beta release. GitHub.
+> Monteiro, S. (2026). *NIM Studio: Neuro Informatics Management Studio* (Version 0.1.0-beta) [Computer software]. Beta evaluation release; public source-code release planned for January 2027. GitHub.
 
 ### Documentation
 
@@ -301,32 +314,15 @@ These details help make software-supported workflows interpretable and reproduci
 
 ## Rights and availability
 
-**Copyright © 2026 Sara Monteiro. All rights reserved.**
+**Copyright © 2026 Sara Monteiro.**
 
-NIM Studio is currently distributed as proprietary, closed-source beta software.
+The original documentation and project materials published in this repository are licensed under the [Apache License 2.0](./LICENSE), except where [RIGHTS.md](./RIGHTS.md) identifies third-party materials or distinct visual-identity rights. The licence does not grant permission to imply endorsement or claim ownership of NIM Studio trademarks.
 
-The source code, executable application, internal architecture, proprietary implementation, and non-public technical materials are **not licensed through this public repository or the associated Zenodo documentation record**.
+NIM Studio is an **open-source project in development**. The first public application source-code release is planned for **January 2027** under Apache 2.0, following final testing and rights review. The source code is not included in this repository at present.
 
-Public access to documentation does not grant permission to:
+Prebuilt evaluation packages currently distributed to beta participants remain subject to a separate [beta executable licence](./BETA_EXECUTABLE_LICENSE.md) and [beta policy](./BETA_POLICY.md). These distribution conditions do not restrict rights granted to the public repository materials under Apache 2.0.
 
-* reproduce
-* modify
-* redistribute
-* sublicense
-* reverse engineer
-* repackage
-* sell
-* commercially exploit
-
-NIM Studio.
-
-Approved beta use is governed by the terms supplied with the application package.
-
-See:
-
-[`LICENSE`](./LICENSE) · [`BETA_POLICY.md`](./BETA_POLICY.md)
-
-Future versions may be released under different terms. No commitment is made regarding future release availability or licensing.
+See [Contributing & Collaboration](./CONTRIBUTING.md) for documentation contributions, feature proposals, and research collaboration opportunities.
 
 ---
 
@@ -342,7 +338,9 @@ Third-party software, standards, names, and trademarks remain the property of th
 
 ## Feedback and contact
 
-Approved beta participants should use the private feedback and support channel supplied during onboarding.
+We welcome public documentation corrections, feature proposals, and research collaboration enquiries through [Contributing & Collaboration](./CONTRIBUTING.md). Please keep all public issues free of sensitive research data.
+
+Approved beta participants should continue to use the private feedback and support channel supplied during onboarding.
 
 Questions concerning:
 
@@ -368,3 +366,4 @@ A public contact address will be added here once confirmed.
 `LOCAL-FIRST` · `BIDS-ALIGNED` · `REVIEWABLE` · `REPRODUCIBLE`
 
 </div>
+
