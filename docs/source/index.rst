@@ -63,11 +63,7 @@ NIM Studio is developed around:
    :maxdepth: 2
    :caption: Framework
 
-   framework/governance_model
-   framework/nim_architecture
-   framework/data_hierarchy
-   framework/data_flow
-   framework/bids_compliance
+   framework/index
    
 .. toctree::
    :maxdepth: 2

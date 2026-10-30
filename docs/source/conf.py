@@ -9,7 +9,7 @@
 project = 'NIM Studio'
 copyright = '2026, Sara Monteiro'
 author = 'Sara Monteiro'
-release = '0.1.0'
+release = '0.1.0-beta'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

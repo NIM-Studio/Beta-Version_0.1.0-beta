@@ -13,13 +13,14 @@ first open-source release.
 The current release documentation and citation information are available
 through the project repositories:
 
-* `NIM Studio on GitHub <https://github.com/arasorietnom/NIM-Studio/>`_
+* `NIM Studio on GitHub <https://github.com/NIM-Studio/Beta-Version_0.1.0-beta>`_
 * `NIM Studio on Zenodo <https://doi.org/10.5281/zenodo.21296291>`_
 
 Users should review the installation instructions, licence, beta policy, and
 related documentation before launching the application.
 
-The first full release version will be updated on these sites as well. 
+The application source code is planned for public release in January 2027; it is
+not included in the current documentation repository. 
 
 First Launch
 ------------
