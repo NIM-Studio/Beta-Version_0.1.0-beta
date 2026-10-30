@@ -18,33 +18,13 @@ Until the source is published, contributions can focus on documentation, reprodu
 - **Scientific collaboration:** Propose study or project package designs, governance use cases, user evaluations, or cross-institutional reproducibility studies.
 - **Interoperability proposals:** Discuss potential connections with established ecosystems such as Nipoppy or Clinica. Pipeline launching is a future idea, not an implemented NIM Studio feature.
 
-## How to propose a change
+## How to contribute
 
-We welcome contributions from researchers, clinicians, data managers,
-research software engineers, and the broader open-science community.
-
-1. **Explore existing discussions.**
-   Check the [GitHub Issues](https://github.com/NIM-Studio/Beta-Version_0.1.0-beta/issues)
-   for similar suggestions, problems, or collaboration opportunities.
-
-2. **Propose an improvement or collaboration.**
-   Open a new GitHub issue describing your research use case,
-   feature request, documentation improvement, or proposed collaboration.
-   Explain the problem, expected benefits, and relevant research context.
-
-3. **Discuss before implementing.**
-   For substantial changes or integrations, please discuss your proposal
-   with the maintainers before beginning development. This helps align
-   contributions with the project roadmap and avoid duplicated efforts.
-
-4. **Contribute to public documentation.**
-   Documentation corrections, tutorials, and synthetic examples can
-   already be proposed through focused pull requests.
-
-5. **Contribute to the application code.**
-   The first public source-code release is planned for January 2027.
-   Guidelines for development setup, testing, code contributions,
-   and pull-request reviews will be published alongside the source code.
+1. **Documentation and examples:** Submit a focused pull request for corrections, tutorials, or synthetic examples. Explain the change and its intended use.
+2. **Beta feedback:** Approved testers should report bugs and usability problems through their designated private beta-feedback channel.
+3. **Feature ideas and collaboration:** Contact the maintainer through an established professional or project channel, describing the research problem, intended users, and proposed outcome.
+4. **Substantial changes:** Agree on the scope of an integration or new workflow with the maintainer before beginning implementation.
+5. **Application code:** Public source code is planned for January 2027. Development, testing, and code contribution instructions will accompany that release.
 
 ## Information to include
 
@@ -64,7 +44,7 @@ For a collaboration proposal, include:
 
 ## Privacy and security
 
-**Never publish identifiable participant data, clinical records, access tokens, credentials, private institutional paths, or confidential logs in GitHub issues or pull requests.**
+**Never publish identifiable participant data, clinical records, access tokens, credentials, private institutional paths, or confidential logs in public pull requests or other public channels.**
 
 Use synthetic data for examples. Report security vulnerabilities privately through the official NIM Studio contact channel; do not post exploit details publicly.
 
@@ -74,5 +54,4 @@ Contributions intentionally submitted for inclusion in the Apache-licensed publi
 
 NIM Studio retains the project's authorship and provenance; contributors will be acknowledged where appropriate in [AUTHORS.md](AUTHORS.md). See [RIGHTS.md](RIGHTS.md) for current public materials and [CITATION.cff](CITATION.cff) for citation metadata.
 
-We welcome thoughtful, respectful, evidence-based discussion.
 

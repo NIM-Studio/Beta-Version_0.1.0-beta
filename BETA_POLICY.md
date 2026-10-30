@@ -46,7 +46,7 @@ NIM Studio follows a local-first design approach. Unless a separately documented
 
 Participants remain responsible for data minimization, authorization, access control, backup, retention, deletion, incident response, GDPR compliance, ethics approvals, data-use agreements, and institutional requirements. A local-first design does not by itself establish legal or institutional compliance.
 
-Personal data, participant identifiers, credentials, confidential datasets, or private institutional information must not be placed in public issues or ordinary feedback messages. Suspected vulnerabilities and security incidents must be reported privately through the designated contact channel.
+Personal data, participant identifiers, credentials, confidential datasets, or private institutional information must not be placed in public repositories or ordinary feedback messages. Suspected vulnerabilities and security incidents must be reported privately through the designated contact channel.
 
 ## 7. Feedback and issue reporting
 
@@ -72,7 +72,7 @@ NIM Studio is being developed toward a public open-source application source-cod
 
 ## 11. Contact
 
-The official beta-support, security-reporting, and licensing contacts will be provided during onboarding and added to the public documentation once confirmed.
+For beta support, security reports, and licensing enquiries, use the contact details provided during participant onboarding.
 
 > This policy is an operational summary and is not a substitute for a reviewed beta-testing agreement or legal advice.
 

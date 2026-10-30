@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/NIM_marquee_transp.png"
+  <img src="./assets/NIM_marquee_transp.svg"
        alt="NIM Studio"
        width="100%" />
 </p>
@@ -7,10 +7,10 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/BETA-v0.1.0-7A2CFF?style=flat-square" />
-<img src="https://img.shields.io/badge/LOCAL--APPLICATION-5A3BFF?style=flat-square" />
+<img src="https://img.shields.io/badge/LOCAL--FIRST-DATA%20STAYS%20LOCAL-5A3BFF?style=flat-square" />
 <img src="https://img.shields.io/badge/BIDS-ALIGNED-356CFF?style=flat-square" />
 <img src="https://img.shields.io/badge/FAIR-ORIENTED-158FE8?style=flat-square" />
-<img src="https://img.shields.io/badge/OPEN--SOURCE-RELEASE%20JAN%202027-1594C6?style=flat-square" />
+<img src="https://img.shields.io/badge/OPEN--SOURCE-RELEASE%20PLANNED%20JAN%202027-1594C6?style=flat-square" />
 <img src="https://img.shields.io/badge/GDPR-AWARE-00B7D8?style=flat-square" />
 <img src="https://img.shields.io/badge/REPRODUCIBLE-BY%20DESIGN-00C8C8?style=flat-square" />
 
@@ -48,7 +48,7 @@ The beta release is centered on a simple principle:
 
 | Release      | Status                        | Date         |
 | ------------ | ----------------------------- | ------------ |
-| `0.1.0-beta` | **Active evaluation release** | 16 June 2026 |
+| `0.1.0-beta` | **Active evaluation release** | 10 July 2026 |
 
 Version `0.1.0-beta` is under active development. Features, interfaces, workflows, file formats, and documentation may change before the first stable release.
 
@@ -73,7 +73,7 @@ Internal evaluation continues through **January 2027**, alongside release prepar
 ## Core modules
 
 <p align="center">
-  <img src="./assets/NIM_ModuleSchematic.jpg"
+  <img src="./assets/NIM_ModuleSchematic.svg"
        alt="Schematic overview of the NIM Studio modules"
        width="100%" />
 </p>
@@ -283,7 +283,7 @@ Users are responsible for determining whether they are authorized to process a d
 
 Use synthetic or appropriately de-identified test data when evaluating a new workflow.
 
-Never place participant data, credentials, access tokens, private keys, or confidential institutional information in public GitHub issues, documentation, or support requests.
+Never place participant data, credentials, access tokens, private keys, or confidential institutional information in public pull requests, documentation, or support requests.
 
 > [!WARNING]
 > Suspected vulnerabilities or data-security incidents must be reported privately through the official NIM Studio contact channel. Do not disclose vulnerability details in a public GitHub issue.
@@ -338,7 +338,7 @@ Third-party software, standards, names, and trademarks remain the property of th
 
 ## Feedback and contact
 
-We welcome public documentation corrections, feature proposals, and research collaboration enquiries through [Contributing & Collaboration](./CONTRIBUTING.md). Please keep all public issues free of sensitive research data.
+We welcome public documentation corrections, feature proposals, and research collaboration enquiries through [Contributing & Collaboration](./CONTRIBUTING.md). Please avoid including sensitive research data in public contributions.
 
 Approved beta participants should continue to use the private feedback and support channel supplied during onboarding.
 
@@ -348,7 +348,6 @@ Questions concerning:
 
 should be directed to the official NIM Studio contact channel.
 
-A public contact address will be added here once confirmed.
 
 ---
 
