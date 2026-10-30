@@ -73,7 +73,7 @@ Internal evaluation continues through **January 2027**, alongside release prepar
 ## Core modules
 
 <p align="center">
-  <img src="./assets/NIM_ModuleSchematic.png"
+  <img src="./assets/NIM_ModuleSchematic.jpg"
        alt="Schematic overview of the NIM Studio modules"
        width="100%" />
 </p>
