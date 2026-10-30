@@ -7,7 +7,7 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/BETA-v0.1.0-7A2CFF?style=flat-square" />
-<img src="https://img.shields.io/badge/LOCAL--FIRST-APPLICATION-5A3BFF?style=flat-square" />
+<img src="https://img.shields.io/badge/LOCAL--APPLICATION-5A3BFF?style=flat-square" />
 <img src="https://img.shields.io/badge/BIDS-ALIGNED-356CFF?style=flat-square" />
 <img src="https://img.shields.io/badge/FAIR-ORIENTED-158FE8?style=flat-square" />
 <img src="https://img.shields.io/badge/OPEN--SOURCE-RELEASE%20JAN%202027-1594C6?style=flat-square" />
