@@ -20,12 +20,31 @@ Until the source is published, contributions can focus on documentation, reprodu
 
 ## How to propose a change
 
-1. Check the existing [issues](https://github.com/NIM-Studio/Beta-Version_0.1.0-beta/issues) for a similar report or idea.
-2. Open an issue using the relevant template: bug report, feature request, or collaboration proposal.
-3. For public documentation changes, fork the repository, create a focused branch, and open a pull request explaining the change.
-4. For larger changes, discuss the intended behavior in an issue before investing significant development time.
+We welcome contributions from researchers, clinicians, data managers,
+research software engineers, and the broader open-science community.
 
-Once application source code is published, this guide will expand to cover development setup, tests, code style, and code-review requirements.
+1. **Explore existing discussions.**
+   Check the [GitHub Issues](https://github.com/NIM-Studio/Beta-Version_0.1.0-beta/issues)
+   for similar suggestions, problems, or collaboration opportunities.
+
+2. **Propose an improvement or collaboration.**
+   Open a new GitHub issue describing your research use case,
+   feature request, documentation improvement, or proposed collaboration.
+   Explain the problem, expected benefits, and relevant research context.
+
+3. **Discuss before implementing.**
+   For substantial changes or integrations, please discuss your proposal
+   with the maintainers before beginning development. This helps align
+   contributions with the project roadmap and avoid duplicated efforts.
+
+4. **Contribute to public documentation.**
+   Documentation corrections, tutorials, and synthetic examples can
+   already be proposed through focused pull requests.
+
+5. **Contribute to the application code.**
+   The first public source-code release is planned for January 2027.
+   Guidelines for development setup, testing, code contributions,
+   and pull-request reviews will be published alongside the source code.
 
 ## Information to include
 
