@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/NIM_marquee_transp.svg"
+  <img src="./assets/NIM_marquee_transp.png"
        alt="NIM Studio"
        width="100%" />
 </p>
@@ -73,7 +73,7 @@ Internal evaluation continues through **January 2027**, alongside release prepar
 ## Core modules
 
 <p align="center">
-  <img src="./assets/NIM_ModuleSchematic.svg"
+  <img src="./assets/NIM_ModuleSchematic.png"
        alt="Schematic overview of the NIM Studio modules"
        width="100%" />
 </p>
